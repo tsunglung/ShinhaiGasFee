@@ -1,0 +1,40 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "\u6b23\u6d77\u74e6\u65af\u5df2\u7d93\u8a2d\u5b9a"
+        },
+        "error": {
+            "connection_error": "\u7121\u6cd5\u9023\u63a5 \u6b23\u6d77\u74e6\u65af."
+        },
+        "flow_title": "\u6b23\u6d77\u74e6\u65af: {name}",
+        "step": {
+            "user": {
+                "data": {
+                    "gasid": "\u5929\u7136\u6c23\u7528\u6236\u7de8\u865f"
+                },
+                "description": "\u8acb\u8f38\u5165\u4f60\u7684 \u6b23\u6d77\u74e6\u65af \u9023\u7dda\u8cc7\u8a0a."
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "\u6b23\u6d77\u74e6\u65af",
+                "data": {
+                    "gasid": "\u5929\u7136\u6c23\u7528\u6236\u7de8\u865f"
+                }
+            }
+        }
+    },
+    "state": {
+        "_": {
+            "billing_date": "\u7e73\u8cbb\u5e74\u6708",
+            "current_gasmeter": "\u672c\u671f\u6284\u8868\u5ea6",
+            "gas_payment": "\u6536\u8cbb\u5ea6",
+            "gas_consumption": "\u4f7f\u7528\u5ea6",
+            "accumulate_gas": "\u8ffd\u6536\u5ea6",
+            "billing_amount": "\u61c9\u7e73\u7e3d\u91d1\u984d",
+            "https_result": "\u7db2\u7ad9\u56de\u61c9"
+        }
+    }
+}

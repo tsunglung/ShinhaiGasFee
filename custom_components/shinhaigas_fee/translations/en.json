@@ -1,0 +1,40 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "ShinHai Gas Fee is already configured"
+        },
+        "error": {
+            "connection_error": "Can't connect to ShinHai Gas Fee."
+        },
+        "flow_title": "ShinHai Gas Fee: {name}",
+        "step": {
+            "user": {
+                "data": {
+                    "gasid": "Gas ID (Without dash)"
+                },
+                "description": "Please enter connection settings of your ShinHu Gas Fee."
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "ShinHai Gas Fee (Without dash)",
+                "data": {
+                    "gasid": "Gas ID"
+                }
+            }
+        }
+    },
+    "state": {
+        "_": {
+            "billing_date": "Billing month",
+            "current_gasmeter": "Billing date",
+            "gas_payment": "Payment",
+            "gas_consumption": "Power consumption",
+            "accumulate_gas": "Next billing date",
+            "billing_amount": "Billing amount",
+            "https_result": "Https result"
+        }
+    }
+}

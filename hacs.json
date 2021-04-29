@@ -1,0 +1,8 @@
+{
+    "name": "Shinhai Gas Fee",
+    "render_readme": true,
+    "domain": "shinhaigas_fee",
+    "documentation": "https://github.com/tsunglung/ShinhaiGasFee",
+    "issue_tracker": "https://github.com/tsunglung/ShinhaiGasFee/issues",
+    "homeassistant": "2021.4.0"
+}
