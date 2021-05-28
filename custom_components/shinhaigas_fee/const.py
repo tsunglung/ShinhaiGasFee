@@ -26,6 +26,6 @@ CONF_GASID = "gasid"
 ATTRIBUTION = "Powered by ShinHai Gas Data"
 
 HA_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 OPR/38.0.2220.41"
-BASE_URL = 'http://www.shinhaigas.com.tw/degree/billquery/query.php'
+BASE_URL = 'http://www.shinhaigas.com.tw/billquery.php'
 
 REQUEST_TIMEOUT = 10  # seconds
